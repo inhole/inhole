@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **inhole/inhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=inhole)
