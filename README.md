@@ -36,14 +36,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white")
 
-<br/>
-<br/>
-
- ---
- 
-<br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
